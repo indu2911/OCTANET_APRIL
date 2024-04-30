@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<HEADER>
+ <div>
+   <H2> Mug & Muffin Cafe <h2>
+     </div>
+       <div class="home">
+         <a href="#"> Home </a>
+         <a href="#"> About </a>
+         <a href="#"> Contact </a>
+       </div>
+    
+    </Header>
+    
+    <body>
+      
+   
+      
+     
+      
+    </body>
+   <footer>
+    <div>
+      <h3>Explore our specialties</h3>
+      <p>Indulge in the flavors of our delightful creations.</p>
+    </div>
+    <div class="container1">
+      <div>
+        <img src="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/milkshake-b0d6105.jpg">
+        <h4>Mouthwatering Milkshakes</h4>
+        <p>Experience the blissful combination of creamy milk, delectable flavors, and a touch of magic in our signature milkshakes.</p>
+      </div>
+      <div>
+        <img src="https://thecozycook.com/wp-content/uploads/2020/02/Copycat-McDonalds-French-Fries--480x270.jpg">
+        <h4>Irresistible French Fries</h4>
+        <p>Savor the crispy, golden perfection of our hand-cut French fries, seasoned to perfection and served with your favorite dipping sauces.</p>
+      </div>
+      <div>
+        <img src="https://static.toiimg.com/thumb/84291091.cms?width=1200&height=900">
+        <h4>Tempting Veggie Delights</h4>
+        <p>Discover a world of flavors in our delightful veggie nuggets, made with a medley of fresh vegetables and a secret blend of herbs and spices.</p>
+      </div>
+    </div>
+  </footer>
+   </body>
+   
+   </html>
+  
